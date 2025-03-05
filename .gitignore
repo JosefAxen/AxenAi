@@ -1,0 +1,9 @@
+bin
+obj
+*.user
+*.suo
+*.vcxproj.user
+*.csproj.user
+*.vbproj.user
+.vscode/
+publish/
